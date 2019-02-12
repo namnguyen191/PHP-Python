@@ -1,0 +1,15 @@
+ProductNo:AVCX-2312, ProductType:Printer, Feedback:Not so good
+ProductNo:dsadsa, ProductType:PC, Feedback:dsadasd
+ProductNo:dasds, ProductType:Laptop, Feedback:dasdasdsa
+ProductNo:ABC-123, ProductType:Printer, Feedback:This printer is good.
+ProductNo:ABC-123, ProductType:Laptop, Feedback:This printer is not so bad
+ProductNo:ABC-123, ProductType:Printer, Feedback:This printer is not so bad
+ProductNo:DJDAS-232, ProductType:PC, Feedback:This PC is too expensive!
+ProductNo:XYZ-3123, ProductType:Laptop, Feedback:This laptop overheat
+ProductNo:dasdasdsa, ProductType:PC, Feedback:dasdsads
+ProductNo:ASJjk-2231, ProductType:Printer, Feedback:This printer is bad
+ProductNo:ABC-123, ProductType:Laptop, Feedback:I like this laptop
+ProductNo:ABC-123, ProductType:Printer, Feedback:dsaddasdasdasdasdasdas13213123
+ProductNo:PRT-1928, ProductType:Printer, Feedback:This Printer is great but consume too much ink
+ProductNo:dsadasd, ProductType:Printer, Feedback:dsadasdas
+ProductNo:123-OYNZ, ProductType:Laptop, Feedback:I love this laptop

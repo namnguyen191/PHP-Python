@@ -1,0 +1,2 @@
+The array_values command takes an array as a parameter and returns all the values of that array as a new array with numemircal indexes. The new array that's
+created by this command ignores the old array numerical indexes and will renumber them according to the 'foreach' ordering.

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Assignment 2 Webform</title>
+</head>
+<body>
+    <form action="Insert_VuHoangNamNguyen.php" method="POST">
+        <label for="proNo">Product No:</label>
+        <input type="text" name="proNo" id="proNo">
+        <br>
+        <br>
+        <label>Product Type:</label>
+        <input type="radio" name="proType" value="Laptop" checked="true">Laptop
+        <input type="radio" name="proType" value="Printer">Printer
+        <input type="radio" name="proType" value="PC">PC
+        <br>
+        <br>
+        <label for="feedback">Customer feedback:</label>
+        <br>
+        <textarea id="feedback" name="feedback" rows="4" cols="50"></textarea>
+        <br>
+        <br>
+        <input type="submit" value="Submit your feedback">
+    </form>
+</body>
+</html>

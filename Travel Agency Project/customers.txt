@@ -1,0 +1,13 @@
+test 1,1,Niagra Falls,15/10/2018
+test 2,2,Niagra Falls,15/10/2018
+test 3,3,Ottawa,16/10/2018
+test 4,4,Ottawa,16/10/2018
+test 5,5,Niagra Falls,16/10/2018
+test 6,6,Niagra Falls,15/10/2018
+test 7,7,Niagra Falls,15/10/2018
+test 8,8,Niagra Falls,15/10/2018
+test 9,9,CN Tower,20/10/2018
+test 10,10,CN Tower,20/10/2018
+test 11,11,CN Tower,20/10/2018
+test 12,12,Niagra Falls,15/10/2018
+test 1,13,CN Tower,16/10/2018

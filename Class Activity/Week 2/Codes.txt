@@ -1,0 +1,64 @@
+<?php
+
+//Date: Sep 10, 2018
+echo "<h1>CPAN-204 - Week 2 </h1>";
+
+//Declare variable
+$age = 20;
+//Display the value of age in the output
+echo "The age is $age <br>";
+//Display age after 10 years
+echo "The age now is " . ($age+10) . "<br>";
+
+$txt = "PHP Programming";
+EcHo "I love $txt! <br>";
+
+define ('PI', 3.14);
+echo "The value of PI is " . PI . "<br>";
+
+$d = date("D");
+if ($d=="Fri") echo "Have a nice weekend!";
+else if($d=="Sat" || $d=="Sun") echo "Weekend is almost over!";
+else echo " LOL it's ". date("l") .". Good luck! LMAO!";
+echo "<br>";
+switch($d){
+    case "Mon":
+        echo "Monday Funday!";
+        break;
+    case "Tue":
+        echo "Tuesday isn't so bad... It's a sign that you somehow survived Monday.";
+        break;
+    case "Wed":
+        echo "Wednesday. It's like the middle finger of the week";
+        break;
+    case "Thu";
+        echo "Hey! It's almost Friday.";
+        break;
+    case "Fri":
+        echo "TGIF!!!!";
+        break;
+    case "Sat":
+        echo "Still partying.";
+        break;
+    default:
+        echo "Crippling depression is comming back tomorow.";
+}
+echo "<br>";
+for($i=0; $i<=100; $i+=10)
+    if($i < 100 )
+    echo "$i, ";
+    else echo "$i.<br>";
+
+ for($i=100; $i>=10; $i-=10)
+    if($i > 10 )
+    echo "$i, ";
+    else echo "$i.<br>";
+    
+for($i=20; $i<=50; $i+=5)
+    if($i < 50 )
+    echo "$i, ";
+    else echo "$i.<br>";
+
+
+
+?>
